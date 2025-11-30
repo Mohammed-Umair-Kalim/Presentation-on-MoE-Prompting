@@ -6,11 +6,17 @@ Prompting is the technique of providing specific input to an AI model to guide i
 Fundamental techniques include:
 
 - **Clear and precise instructions**: Ensure the prompt is direct and unambiguous.
+
 - **Providing explicit context**: Include necessary background information for the model to understand the task.
+
 - **Asking open-ended questions**: Encourage informative and detailed responses.
+
 - **Refining based on feedback**: Fine-tune prompts iteratively to improve output over time.
+
 - **Specifying output format**: Request specific formats like lists or bullet points for better results.
+
 - **Step-by-step queries**: Break down complex tasks to guide the model through the process.
+
 - **Positive reinforcement**: Adjust inputs based on model performance to ensure better alignment with user expectations.
 
 ## 2. Advanced Prompting Strategies
@@ -19,8 +25,12 @@ Advanced prompting strategies leverage a deeper understanding of AI models’ be
 Key advanced strategies include:
 
 - **Prompt chaining**: Link multiple prompts to build upon previous responses, creating contextually rich outputs.
+
 - **Zero-shot and few-shot learning**: Enable models to perform tasks with minimal examples or without fine-tuning.
-- **Contextual embeddings**: Provide background information to set the tone or domain, ensuring the output matches the desired complexity and style.
+
+- **Contextual embeddings**: Provide background information to set the tone or domain, ensuring the output matches the desired complexity 
+                             and style.
+                             
 - **Conditional prompting**: Set rules or conditions that guide the model's output within predefined boundaries.
 
 These strategies enable users to extract more sophisticated and tailored responses, increasing the model’s versatility and performance.
@@ -38,7 +48,7 @@ Key features of MoE include:
 
 - **Adaptive resource allocation**: The system dynamically selects the appropriate experts, improving scalability and reducing computational
                                     overhead.
-                                    
+
 - **Improved accuracy**: In natural language processing, MoE has demonstrated enhanced performance in complex domains by selecting the right 
                         expertise.
 
