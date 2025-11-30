@@ -37,7 +37,7 @@ Key advanced strategies include:
 
 These strategies enable users to extract more sophisticated and tailored responses, increasing the model’s versatility and performance.
 
-<img src="a5.jpg" alt="ai" width="300"/>
+<img src="a5.jpg" alt="ai" width="450"/>
 
 ## 3. Mixture-of-Experts (MoE)
 The Mixture-of-Experts (MoE) model is a cutting-edge approach to building scalable AI systems by combining multiple specialized models 
