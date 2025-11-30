@@ -58,6 +58,8 @@ Key features of MoE include:
 
 MoE systems help significantly reduce resource consumption while maintaining high performance across a variety of tasks.
 
+<img src="a3.jpg" alt="ai" width="500"/>
+
 ## AI Response Comparison
 
 | Aspect                  | GPT-3.5 Response                                          | GPT-4 Response                                            | Notes                                                   |
