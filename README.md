@@ -80,3 +80,4 @@ MoE systems help significantly reduce resource consumption while maintaining hig
 - **GPT-3.5** offers a simpler, more general overview of AI, ideal for a basic understanding.
 - **GPT-4** goes into greater depth, providing more technical details, nuanced pros and cons, and specific examples that appeal to both general and technical audiences.
 
+(Google Docs)[https://docs.google.com/document/d/1pii1DJ3Gg_dIxnb63yXkTEvY1ew8iIc3hvLXrv5OwA4/edit?tab=t.0]
