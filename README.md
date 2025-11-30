@@ -19,6 +19,8 @@ Fundamental techniques include:
 
 - **Positive reinforcement**: Adjust inputs based on model performance to ensure better alignment with user expectations.
 
+<img src="a4.jpg" alt="ai" width="600"/>
+
 ## 2. Advanced Prompting Strategies
 Advanced prompting strategies leverage a deeper understanding of AI models’ behavior and design to produce more precise and creative outputs.
 
@@ -30,10 +32,12 @@ Key advanced strategies include:
 
 - **Contextual embeddings**: Provide background information to set the tone or domain, ensuring the output matches the desired complexity 
                              and style.
-                             
+
 - **Conditional prompting**: Set rules or conditions that guide the model's output within predefined boundaries.
 
 These strategies enable users to extract more sophisticated and tailored responses, increasing the model’s versatility and performance.
+
+<img src="a5.jpg" alt="ai" width="600"/>
 
 ## 3. Mixture-of-Experts (MoE)
 The Mixture-of-Experts (MoE) model is a cutting-edge approach to building scalable AI systems by combining multiple specialized models 
